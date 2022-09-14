@@ -1,0 +1,5 @@
+- 👋 Hi, I’m elankyoket
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on coding
+- 📫 How to reach me at mail
