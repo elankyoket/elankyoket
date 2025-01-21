@@ -1,5 +1,5 @@
 - 👋 Hi, I’m elankyoket
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on coding
+- 🌱 I’m currently learning Advanced Electronics
+- 💞️ I’m looking to collaborate on IoT & Drone based startup
 - 📫 How to reach me at mail
